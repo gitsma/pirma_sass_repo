@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+.container img {
+  filter: brightness(50%);
+  width: 450px;
+  margin: 10px;
+}
+.container img:hover {
+  filter: brightness(110%);
+}/*# sourceMappingURL=style.css.map */
